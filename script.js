@@ -35,3 +35,5 @@ if (forma === 'quadrado') {
 }
 
 console.log(area);
+
+// Fim do testes
