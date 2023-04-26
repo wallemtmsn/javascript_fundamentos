@@ -16,3 +16,5 @@ function numeroPar(numero){
 
 
 console.log(numeroPar(7))
+
+// Fim dos testes
