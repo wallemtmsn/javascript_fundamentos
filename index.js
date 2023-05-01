@@ -17,7 +17,7 @@ app.post('/api/email', async (req, res) => {
       secure: false,
       auth: {
         user: 'wallemtmsn@hotmail.com', //coloque seu e-mail
-        pass: '@#Kivy1310' //coloque sua senha
+        pass: '234234' //coloque sua senha
       }
     });
 
